@@ -19,3 +19,7 @@ install the pre-commit hook:
 ```
 > This requires `clang-format` to be installed on your system. Be sure to
 > download and install it. It is available for all major operating systems.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
